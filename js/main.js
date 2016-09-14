@@ -20,3 +20,5 @@ function addButtonClicked() {
 
   $list.append($li);
 }
+
+// some comment
